@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.019,=C:\Users\Mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\Users\Mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\Mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Mesut\Desktop\Altin\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,C:\Users\Mesut\Desktop\Altin\Unit2.pas=C:\Users\Mesut\Desktop\Altin\AltinFiyatParser.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\Mesut\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Mesut\Desktop\Altin\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,C:\Users\Mesut\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Mesut\Desktop\Altin\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,=C:\Users\Mesut\Desktop\Altin\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
